@@ -1,0 +1,13 @@
+.DS_Store
+*/.DS_Store
+.idea
+*/.idea
+.settings
+.buildpath
+.project
+vendor/
+build/
+php-cs-fixer.phar
+composer.lock
+composer.phar
+test.php
