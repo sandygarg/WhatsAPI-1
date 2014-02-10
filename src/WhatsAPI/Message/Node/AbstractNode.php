@@ -258,7 +258,7 @@ abstract class AbstractNode implements NodeInterface
         //formatters
         $lt = "<";
         $gt = ">";
-        $nl = "\n";
+        $nl = PHP_EOL;
 
         $indent = "";
 
